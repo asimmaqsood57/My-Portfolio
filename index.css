@@ -1,0 +1,23 @@
+.container{
+
+border: 2px solid red; 
+
+}
+.row{
+
+    /* margin: 15px; */
+    border: 2px solid green;
+
+    margin: 3rem;
+    padding: 1rem;
+    justify-content : center;
+}
+
+.cols{
+
+    /* display: inline-block; */
+    /* margin: 13px; */
+    height: 300px;
+
+    border: 2px solid yellow;
+}
